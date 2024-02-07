@@ -1,6 +1,0 @@
-time = input("오늘의 기상 시간은?")
-food = input("오늘 아침 식사는?")
-work = input("오늘 출근 시간은?")
-print(time)
-print(food)
-print(work)
